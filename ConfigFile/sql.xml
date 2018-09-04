@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+    <database name="Members">
+        <table name="rs_member">
+            <sql id="select_member">
+                SELECT * FROM rs_member WHERE member_id=%s
+            </sql>
+			 <sql id="delete_user">
+                DELETE FROM rs_member WHERE email=%s
+            </sql>
+			 <sql id="update_user">
+                update rs_member set member_id = 123 WHERE email=%s
+            </sql>
+        </table>
+        <table name="rs_role">
+            <sql id="select_role">
+                DELETE FROM rs_role WHERE email=%s
+            </sql>
+			<sql id="delete_role">
+                DELETE FROM rs_role WHERE email=%s
+            </sql>
+			<sql id="update_role">
+                DELETE FROM rs_role WHERE email=%s
+            </sql>
+        </table>
+    </database>
+</page>

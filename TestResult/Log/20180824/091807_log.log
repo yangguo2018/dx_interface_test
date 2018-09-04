@@ -1,0 +1,54 @@
+2018-08-24 09:18:07,709 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，0
+2018-08-24 09:18:07,709 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，1
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，2
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，3
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，4
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，5
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，6
+2018-08-24 09:18:07,710 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，7
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，8
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，9
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，10
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，11
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，12
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，13
+2018-08-24 09:18:07,711 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，14
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，15
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，16
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，17
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，18
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，19
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，20
+2018-08-24 09:18:07,712 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，21
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，22
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，23
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，24
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，25
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，26
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，27
+2018-08-24 09:18:07,713 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，28
+2018-08-24 09:18:07,714 - INFO - testcase_func is <function TestMain.test_main at 0x000000000504EB70>，29
+2018-08-24 09:18:07,716 - INFO - ----用例执行-----
+2018-08-24 09:18:07,821 - INFO - case_001
+2018-08-24 09:18:07,821 - INFO - setup is 
+2018-08-24 09:18:07,822 - INFO - case_name is 管理端登录
+2018-08-24 09:18:07,822 - INFO - test_assert is 
+2018-08-24 09:18:07,832 - INFO - yaml_data:{'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'check_name': '15012345601', 'check_pwd': '123456', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'endDate': '2018-08-24', 'num': '101', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser101', 'user_phone': '15400000101', 'user_pwd': '123456'}
+2018-08-24 09:18:07,854 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"testsuperadmin3",
+ "password":"elephantpwd123",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-08-24 09:18:07,972 - INFO - url:https://qa-auth.dr-elephant.com/Token
+2018-08-24 09:18:07,972 - INFO - --------------------------------------------
+2018-08-24 09:18:14,314 - INFO - res_code:200 & type:<class 'int'>
+2018-08-24 09:18:14,314 - INFO - res_content:b'{"access_token":"_xIt9eJ9dRkTaHOHxIhCvzfzS9ALpjH8XMPF9Zev_lix8c3YPTHr_zWyPpNouTMQ5N-Ueapv5cotI0E3i9AZC6X3Eh8JvYYVUumiapeIdJ-H1jpw0wRWZkBqXPJ5dk2h_jxVinxI6R1XypDWRUCPhY_weXQkNj_PUTRIOzJ4-vmr1xYOh8BoAj14tL6WDYc4FHh6n2klBA3EALfbFjcvFq0W2r_dVH86gLLaX3QQUKQAp60PJYPSTI-CHjO39En8fmCSRB0yAve3H9DBrX6Xo-tS5MaNIfQZ_1PQxTtbtNxA0GHWCRPLv3e2jupVZWANXEmC9tfkZKhKCPdtD-Gfzht3JTN7CbkFz1l_S6wpCXfeCy27Xle9QTi64ZHnoVkp3bxWT8Uk1qKNoAXV6TawODXvgZ8AUCQxOepYVAg0LapAiHxvF5rTV-Zp5UJ6C60w09wyLnY_OiPpslEEPsKiGFN-hfosGW7zbfS8BSFmvi6U64es1e8EJr19m4qIsZNOAWgnP8zlADPtgxBx7CPzmaPTd4lksKsHQTI8VZu0y_yb4tNormjHNQk9jkRDhXj1u55L6-mZo-gDkvsHIEtlng","token_type":"bearer","expires_in":86399,"refresh_token":"vuESgPc3abumm5KJQsDCAsvDiq6zv2FbcexsdBFzEMbVYuy6hK1ogzqVZdd1yBMV18EN2aF1acqFtZEFvxsZjYOLmbVtZjfdFDD4vIowUgTeb5vYUjEgn1syX6DrplzqLWKdNWZctuLI6nJVUZ-FHrdYgKqqpnUcoAVvQgelR5TlaaWJqR74gTsQDYrMqbo7Fv0oGzyRMbBX0PFrEMkhCzS-eaCTPN2PerxWuhup_qLYe0HMLxpGf6x1glDjHYGOjjfpd4ndcvN1YQeCATtjbhl0gCfUo2R66cxNcapasmXf3ypqgDSSeGF3uNfARak4snaTScj-BrvdNHBWUDjtUaRBn88iLjudK4tY0Uh6ANTy0CXPIgThTdDU5GvdZufA_7fkPjiXvuLBce5xHOjDKJ1Rh6UAQArKUXhV7oSnnClxlq2Sa4PXzZE95fxv1kZ4JxMgScxpTkEzkbdD1Eanfykenx1qTHknJ6NE8zI3Ezv2mbETkHUba7Wb2I_FzYAZmA87jtnolmWBpOtNWL3i-ZSlfV1QTH9Bo2eJ2kE8ueJSEO7KONOJAZGmlcu3X0qKIQE4cIVIzeYc_ask077rFA","as:client_id":"Elephant.Admin","userId":"DE78B49E-67C6-4040-9B98-BF0F3845F007","userName":"testsuperadmin3","userRoles":"[\\"SuperAdmin\\"]",".issued":"Fri, 24 Aug 2018 01:18:10 GMT",".expires":"Sat, 25 Aug 2018 01:18:10 GMT"}'
+2018-08-24 09:18:14,315 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Type': 'application/json;charset=UTF-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:18:14 GMT', 'Content-Length': '1500'}
+2018-08-24 09:18:14,355 - INFO - case_002
+2018-08-24 09:18:14,356 - INFO - setup is 
+2018-08-24 09:18:14,356 - INFO - case_name is 用户列表
+2018-08-24 09:18:14,356 - INFO - test_assert is 
+2018-08-24 09:18:14,381 - INFO - yaml_data:{'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': '_xIt9eJ9dRkTaHOHxIhCvzfzS9ALpjH8XMPF9Zev_lix8c3YPTHr_zWyPpNouTMQ5N-Ueapv5cotI0E3i9AZC6X3Eh8JvYYVUumiapeIdJ-H1jpw0wRWZkBqXPJ5dk2h_jxVinxI6R1XypDWRUCPhY_weXQkNj_PUTRIOzJ4-vmr1xYOh8BoAj14tL6WDYc4FHh6n2klBA3EALfbFjcvFq0W2r_dVH86gLLaX3QQUKQAp60PJYPSTI-CHjO39En8fmCSRB0yAve3H9DBrX6Xo-tS5MaNIfQZ_1PQxTtbtNxA0GHWCRPLv3e2jupVZWANXEmC9tfkZKhKCPdtD-Gfzht3JTN7CbkFz1l_S6wpCXfeCy27Xle9QTi64ZHnoVkp3bxWT8Uk1qKNoAXV6TawODXvgZ8AUCQxOepYVAg0LapAiHxvF5rTV-Zp5UJ6C60w09wyLnY_OiPpslEEPsKiGFN-hfosGW7zbfS8BSFmvi6U64es1e8EJr19m4qIsZNOAWgnP8zlADPtgxBx7CPzmaPTd4lksKsHQTI8VZu0y_yb4tNormjHNQk9jkRDhXj1u55L6-mZo-gDkvsHIEtlng', 'check_name': '15012345601', 'check_pwd': '123456', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'endDate': '2018-08-24', 'num': '101', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser101', 'user_phone': '15400000101', 'user_pwd': '123456'}

@@ -1,0 +1,296 @@
+2018-08-24 09:24:57,081 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，0
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，1
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，2
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，3
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，4
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，5
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，6
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，7
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，8
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，9
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，10
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，11
+2018-08-24 09:24:57,082 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，12
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，13
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，14
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，15
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，16
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，17
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，18
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，19
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，20
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，21
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，22
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，23
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，24
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，25
+2018-08-24 09:24:57,083 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，26
+2018-08-24 09:24:57,084 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，27
+2018-08-24 09:24:57,084 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，28
+2018-08-24 09:24:57,084 - INFO - testcase_func is <function TestMain.test_main at 0x00000000039CA620>，29
+2018-08-24 09:24:57,085 - INFO - ----用例执行-----
+2018-08-24 09:24:57,112 - INFO - case_001
+2018-08-24 09:24:57,112 - INFO - setup is 
+2018-08-24 09:24:57,112 - INFO - case_name is 管理端登录
+2018-08-24 09:24:57,112 - INFO - test_assert is 
+2018-08-24 09:24:57,120 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': '0Z2dJdAsTNnC3JlthDW-02TMSyd3AZT_34rSUrJsCHRHTpl-aKIMyufkhyd88DymlS0oebfvWZN1ug2A5m9n4x4SX3aOd74RsEwA5gey6mE0PuzB70MRi5a55zf7P175m5Y2GKpSzaYAamh2kpZCVx-EFfqU7tN7xFqrFRFc1ic9Jtdi-wAttrBMRxo8ztB1SOW91sQZ6mtbs-Xt5Dc1FlLNxQdw6u1M2dq__QwyOcQLo9rniKKRrY6RqZ5iVC95vHefb9p8X9CcG76qnhZXp4B7QxYtrG3HZySjkTJvY3nv3iaP86q03mmzKst5pEpTgmgNH-6dDJ9bnEydLx83m_XusuvUXbAk_isOtBkiXrqsxwyfshi6GUgSfMGzt87tgcc5MCk2O34Pdi_16K6d9WXSaRzsMNEsUuZxqKgj8mtKVeSZj5yU08i11Ak61fiKTuyhl7fGkTtj8oFsbjnrA3JiDGPuH8K6J1b8EalJ8JZ9QsQ6oTdGc1i9R3wyXHRVkSdmKcxF6IfwXM2hn7kLV9d5ezTJgIxX1gxWxsUOYEfVXsmQ9RUxgOWYhszVsqVbIb-TnkA0ovWPEeK5_D-c5w', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456'}
+2018-08-24 09:24:57,133 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"testsuperadmin3",
+ "password":"elephantpwd123",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-08-24 09:24:57,135 - INFO - url:https://qa-auth.dr-elephant.com/Token
+2018-08-24 09:24:57,135 - INFO - --------------------------------------------
+2018-08-24 09:24:58,035 - INFO - res_code:200 & type:<class 'int'>
+2018-08-24 09:24:58,035 - INFO - res_content:b'{"access_token":"YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg","token_type":"bearer","expires_in":86399,"refresh_token":"tTiy444fM4n476Ly26ZV3oEnbnW33hHusazGXlynrgfA-7YgUhyhX8xIwT8T8hnDNzax8-f4RmbPam1GSsH1SZ1TOCh3pMvnNPjQfNBI-BbBSez-KmrTYA7r8tLWANgw5HCOPv3CxtMghvyfWVjL_Mf1gDc6Dg_UBYsUaWMPeQ3rd85SWCAS8ChMQIn5XjTJL-GtPFObQdPbzRGpFiQHxRrwYAZ_KiDdhw85ieoU1GvbVfFLMPKi8MWxihJH6-6PQXoyaYDsVFiMAyq5GbDfmf9TKgJujJGXJ990Nro5456RvXdmz7XfW8FTFpT7hyu-LqET1CJYgPeQQ2CsE5f2Du3ud64oQyDrIbno6-b08XjH_BVPWfeCf3vCb6QyR_YV_SHxDlzRw6x4Y3xTf53je-UNbCLVLpkhOZ1AgicprIVTeK6wuwrW0rq16xrsbFxrnVKjxaaCkisF7V3T5_fmlBimnsLL_YjYNmA-A5b5uSAmgJ5KxO5OyA8nHQRhRbgojOYiv_EpoHsYLrJsJD8SrDFSgtMyRTK0fkKoi9yy5rnpcNiGTBrYoNyEHGmzgBxqYJNteWwuCWbl2W3qI8MvvQ","as:client_id":"Elephant.Admin","userId":"DE78B49E-67C6-4040-9B98-BF0F3845F007","userName":"testsuperadmin3","userRoles":"[\\"SuperAdmin\\"]",".issued":"Fri, 24 Aug 2018 01:24:57 GMT",".expires":"Sat, 25 Aug 2018 01:24:57 GMT"}'
+2018-08-24 09:24:58,035 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Type': 'application/json;charset=UTF-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:24:58 GMT', 'Content-Length': '1500'}
+2018-08-24 09:24:58,059 - INFO - case_002
+2018-08-24 09:24:58,059 - INFO - setup is 
+2018-08-24 09:24:58,060 - INFO - case_name is 用户列表
+2018-08-24 09:24:58,060 - INFO - test_assert is 
+2018-08-24 09:24:58,071 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456'}
+2018-08-24 09:24:58,080 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-08-24 09:24:58,080 - INFO - --------------------------------------------
+2018-08-24 09:24:58,080 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-08-24 09:24:58,252 - INFO - res_code:400 & type:<class 'int'>
+2018-08-24 09:24:58,252 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-08-24 09:24:58,252 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '55', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '5634046f-9484-4e2c-b1cd-a2655c212c8b', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:24:58 GMT'}
+2018-08-24 09:24:58,253 - INFO - traceback.print_exc():None,
+2018-08-24 09:24:58,253 - INFO - case_003
+2018-08-24 09:24:58,253 - INFO - setup is 
+2018-08-24 09:24:58,253 - INFO - case_name is 新增用户
+2018-08-24 09:24:58,254 - INFO - test_assert is 
+2018-08-24 09:24:58,262 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456'}
+2018-08-24 09:24:58,296 - INFO - handle_param-data: {
+  "Name": "TestUser103",
+  "IdCard": "510821199205141214",
+  "Gender": 0,
+  "StoreCode": "A05E1F92-CA15-4F68-90E1-197E636A9899",
+  "PhoneNumber": "15400000103",
+  "Password":"123456",
+  "Source": 0,
+  "OpenID": ""
+} && type(data):<class 'str'>
+2018-08-24 09:24:58,307 - INFO - url:https://qa-account-ms.dr-elephant.com/api/v1/Account/AdminRegisterPatient
+2018-08-24 09:24:58,307 - INFO - --------------------------------------------
+2018-08-24 09:24:58,862 - INFO - res_code:409 & type:<class 'int'>
+2018-08-24 09:24:58,862 - INFO - res_content:b'{"Message":"\xe8\xaf\xa5\xe6\x89\x8b\xe6\x9c\xba\xe5\x8f\xb7\xe5\xb7\xb2\xe6\xb3\xa8\xe5\x86\x8c"}'
+2018-08-24 09:24:58,862 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:24:58 GMT', 'Content-Length': '35'}
+2018-08-24 09:24:58,862 - INFO - traceback.print_exc():None,
+2018-08-24 09:24:58,862 - INFO - case_004
+2018-08-24 09:24:58,863 - INFO - setup is 
+2018-08-24 09:24:58,863 - INFO - case_name is 根据用户名获取用户信息
+2018-08-24 09:24:58,863 - INFO - test_assert is 
+2018-08-24 09:24:58,869 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456'}
+2018-08-24 09:24:58,883 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000103&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-08-24 09:24:58,883 - INFO - --------------------------------------------
+2018-08-24 09:24:58,883 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000103&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-08-24 09:24:59,061 - INFO - res_code:400 & type:<class 'int'>
+2018-08-24 09:24:59,061 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-08-24 09:24:59,061 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '55', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '9d2b894d-ef1e-4cf2-a306-9a74a6a87b32', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:24:59 GMT'}
+2018-08-24 09:24:59,062 - INFO - traceback.print_exc():None,
+2018-08-24 09:24:59,063 - INFO - case_005
+2018-08-24 09:24:59,063 - INFO - setup is 
+2018-08-24 09:24:59,064 - INFO - case_name is 医生列表
+2018-08-24 09:24:59,064 - INFO - test_assert is 
+2018-08-24 09:24:59,086 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456'}
+2018-08-24 09:24:59,115 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Doctors/Audited?pageIndex=1&pageSize=15&nameOrPhone=18321802242
+2018-08-24 09:24:59,115 - INFO - --------------------------------------------
+2018-08-24 09:24:59,115 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Doctors/Audited?pageIndex=1&pageSize=15&nameOrPhone=18321802242
+2018-08-24 09:24:59,567 - INFO - res_code:200 & type:<class 'int'>
+2018-08-24 09:24:59,567 - INFO - res_content:b'{"PageIndex":1,"PageSize":15,"TotalCount":1,"Entities":[{"DoctorId":"c91afa1f-32ba-e711-8da0-000c29ac6d36","Name":"\xe6\x8a\x80\xe6\x9c\xaf\xe6\xb5\x8b\xe8\xaf\x95(\xe8\x87\xaa\xe5\x8a\xa8\xe5\x8c\x961)","PhoneNumber":"18321802242","Gender":0,"IdCard":"34240119920525344x","Department":"\xe5\x85\xa8\xe7\xa7\x91\xe5\x8c\xbb\xe7\x96\x97\xe7\xa7\x91","DepartmentId":"02","DoctorRank_Id":"\xe4\xbd\x8f\xe9\x99\xa2\xe5\x8c\xbb\xe5\xb8\x88","Hospital":"\xe8\x87\xaa\xe5\x8a\xa8\xe5\x8c\x96\xe5\x8c\xbb\xe9\x99\xa2","DoctorRank":"\xe4\xbd\x8f\xe9\x99\xa2\xe5\x8c\xbb\xe5\xb8\x88","DoctorTitle":"\xe8\x87\xaa\xe5\x8a\xa8\xe5\x8c\x96\xe5\x8c\xbb\xe7\x94\x9ftitle","IsCertified":false,"CertificationPicUri":null,"TitlePicUri2nd":null,"TitleCode":"asdsadsad","TitleCodeObtainedTime":"2018-06-01 00:00:00","QualificationPicUri":null,"QualificationPicUri2nd":null,"PracticeCode":"asdsadas","PracticeCodeObtainedTime":"2018-06-01 00:00:00","DoctorCertificatePicUri":null,"DoctorCertificatePicUri2nd":null,"QualificationCode":"asdsadsa","QualificationCodeObtainedTime":"2018-06-01 00:00:00","MultiLocaltionQualification":null,"IdCardBackPicUri":null,"IdCardPicUri":null,"SignaturePicUri":null,"CertificationType":0,"DoctorCertificationStatus":0,"Auditdescription":null,"ProvinceId":null,"Province":"\xe5\xa4\xa9\xe6\xb4\xa5\xe5\xb8\x82","City":"\xe5\xa4\xa9\xe6\xb4\xa5\xe5\xb8\x82","CityId":"120100","AppliedTime":"2018/08/24 09:24:51","AuthenticateStatus":10,"DoctorProfessionLevel":0,"RegisteredTime":"2017/10/19 09:25:20","ApproverName":"testsuperadmin3","ApprovedTime":"2018/08/24 09:24:52","WorkInstCode":null,"DoctorCode":null}]}'
+2018-08-24 09:24:59,567 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '1298', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '6a861366-76d0-4884-8f24-9ed6d440788a', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Fri, 24 Aug 2018 01:24:59 GMT'}
+2018-08-24 09:24:59,591 - INFO - case_006
+2018-08-24 09:24:59,591 - INFO - setup is 
+2018-08-24 09:24:59,591 - INFO - case_name is 医生排期
+2018-08-24 09:24:59,591 - INFO - test_assert is 
+2018-08-24 09:24:59,602 - INFO - yaml_data:{'AppointmentId': '6e25b7db-3580-e811-8d9e-000c2918a2b6', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-08-24 23:00:00', 'ScheduleId': '6c4b9c7b-3ca7-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-08-24 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'YHI-H3eGTlhwysbMRE2EEvTOSv5ie8l7s3rn9DB4LOoiNRlpJHlnW5hlRS3yln4Amw-bYMLRkMBnoua_YAAckmFBFJcIjK7l-a2wT9z9S1mnu0nAwWSAdU5KBSHhUmDsCGig_tGxH1UmmoKoEh2YFCELzXXZ2mNzOsowubpJscXtjCi0RRJvyVhydMr6e0EBB3p5vHcbpE0r7pzzmGaAMjYvXCL_hD0XSXRQZZa19XtuzhWvUzZMFq2lx0nr5kEN10015ZWTTgqBFnz8KfncHMU5C1wfzi7EtQdAXk-ymEq18dScaZhFOYTcuIlHGLqmL6vz9281jmKiwHsiKa9doWqA1X8qv7hvqvF9blI9zF7vTIaNJif8lPY8Ty7p3_SUo117j4Qk0LqbbdFQMj27PflRmkceZTHJr4YoIZMDPfJQ0hlZo3SjQ0DU0h0jKwbj-eAxpaBMr2a3DNDNkiqiMYn9rMwpvlO_ArvrkIV-hQAoXMSOqzZg-Srj7O5NZ5vNWX-MkZPCTpsyTLJdWZKIwRnOO8pRErlaFRIKTX7cR_w5eU-sgMf2CcRUxmuP_OZ8wXQRqB93wLcih8LCDEyMYg', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'b8PE8V2mzoFpb_bqPCrtyrKpoHzadJN4G455sss5mNSTiHEwL1midmv5dn6hAWI7HgrPx3bQRaLvIiw-in03iHXOs90TgVyiajOXxznsPAuHPGSiHw1MwYyVfBIKz_cRrbRKmUli8hMmy_NHYf0VijlNHUkdyhl3JoUBkr3RRAsb8CaJjhW8IrJe6fv01VTWC3q00sfmcCfpI_ZyAZWNjRvVe5CWMYzMZFYFMMT85rjQ5n0zhvGRaYNiOl_oXd5tybZt65NdIRd6EtdmX6aX8n_9oHa065jxQqJlhBDfFYja1kPuxsRnhzeLu4ksbbCuOJLLekZ_qGJ6vq0L-Ka-08hBfWQD2co_Uw-gBEGz0YKzDZByLKebC0sEsIPCGBlHvGXjZvOOB2_dTwUAbRPZbcktv155x4RmApfAn_khzucVWDUR6x8K_4CTGTAUctfR0xS1VbF3Jl1DZpj3vjOF9EKrzwkVPku7xJilHife8P5T8vGi2RLxjH_WT-tDyETF-ORqza2rh_aFjLJ1Z3VK_0qHI_EecC5wDSDNg8wHpwS07t4BFo31gxhkX1imhK7D7xkCDTJEAAYkY23V2GDrHg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'yJyXY3TJCAGGKkh8VcxknjSB-aAGt1VQfnvgOJczm1lAKWoLTVrbi7C7oxo5jnHnJxJMlFw0OU1a1ACHvwf952MgzBJSwFGWRxag6YBSY1-M1EApqjD_RHv4hi766zG3M3HBIcgfeVLXPFc4xMup6Cj9t_JMX9qzd6wmqwIWOXgLhlV2V6TkVT-3nO39j-dThD7Pgs63UF3-b-gintY-IHb40crdD5RwA_QA2gjl9WehIJ9uxVkTlIUeWnJO9oXjegXOe9v8H8sKo-xJ9D1ncwYATfG_ThTtr11EZl3qzXy80Bc7I0rtFKbcXZD3ESf_vRdKfTn4MWK8oD47Lq-XCbaNV42kpGytEldfwdOHFClCeTEZ_n3Y0AYd3-AXyl_GvMfbzqoy9jq99KgL25wbyNcdR1DSLzix9EtE82mtotrhdYY7gZWWDp0rpTUihf_3yUXULPRKMq9rePXoP3KgSthcQRz7A010TrHIp-I1gfugav0VbmwaDXi8Xt-Kce29Ju4M_O5rLriU0ChJQ2aKsNbDyLSWWMU83nXJERFTb8kF5vn25FIlv7Tr0MlwdRM5', 'endDate': '2018-08-24', 'num': '103', 'startDate': '2018-08-24', 'user_id': 'c9628401-53bc-49d7-84a9-3631966acf22', 'user_idcard': '510821199205141214', 'user_name': 'TestUser103', 'user_phone': '15400000103', 'user_pwd': '123456', 'user_token': 'YJZPBPWp16ag8DRxAK6xqVIBasecJiYXdIomplY9K2jTD5Y0A3yL0u5uFLE7L_JkYGXQ7zevR5ejcdLlvO3SCFlvR-Q52qxZw4gx96stpzjkW_J8gXtMAPWvKZqLzfINyYrvZ1Zb2Wua5YvFDvqLX9I-5MnvR8wN93cubQDk8ggxbrfGMwtNgW7VkGFnzs0X3rHf7CnYam6w-aLdBCG9iG-4BCmmmbP0Vh3k74u4345ju7dR9zlIUxppDwlgOgQu0U03kNwYF1DEuozfsxb1z4ef8EF_jJD5BgCVlAfATcBNun_pcAPNblwxOdiMF6ULqTfLmg-aaKXFMg7Afzj5NwHtrVBP7qoGO-MWjRshWWRMfqjmuBcdqNJbd_lPsb6iqkYtpAA2npYQ0qKskvYrDa4kKCvR19c4-P5VIxDABWf6RbPrbnoNg4W9W9_CR8yclxJ8iRLVIeaf1xLS-T7De-nPzWwGGYRyS8x0dLGXWZiTCuwBfm11bZEbXStbq58RnPuhlfGhFohc9t0xtJFdVVnA6HsFYPTiMXXZttdhuDGFjoE8LWTxdksMWwSrzojcSSaGNjp_olcQGbTZTZl_nOA6kxakYD1QtMIjKQYL1DKU6Nc63kf-FrhVEsHYd4QI'}
+2018-08-24 09:24:59,639 - INFO - handle_param-data: {
+  "StartDateTime": "2018-08-24 22:30:00",
+  "EndDateTime": "2018-08-24 23:00:00",
+  "DoctorId": "c91afa1f-32ba-e711-8da0-000c29ac6d36",
+  "Price": 0,
+  "Services": [
+    {
+      "DoctorServiceSettingKey":"483bfba7-5cd3-e711-8da1-000c29ac6d36",
+    }
+  ]
+} && type(data):<class 'str'>
+2018-08-24 09:24:59,644 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,645 - INFO - case_007
+2018-08-24 09:24:59,645 - INFO - setup is 
+2018-08-24 09:24:59,645 - INFO - case_name is 获取医生排期ID
+2018-08-24 09:24:59,645 - INFO - test_assert is 
+2018-08-24 09:24:59,646 - INFO - yaml_data:None
+2018-08-24 09:24:59,647 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,647 - INFO - case_008
+2018-08-24 09:24:59,648 - INFO - setup is 
+2018-08-24 09:24:59,648 - INFO - case_name is 预约管理列表
+2018-08-24 09:24:59,648 - INFO - test_assert is 
+2018-08-24 09:24:59,649 - INFO - yaml_data:None
+2018-08-24 09:24:59,650 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,651 - INFO - case_009
+2018-08-24 09:24:59,651 - INFO - setup is 
+2018-08-24 09:24:59,651 - INFO - case_name is 用户预约订单创建
+2018-08-24 09:24:59,652 - INFO - test_assert is 
+2018-08-24 09:24:59,653 - INFO - yaml_data:None
+2018-08-24 09:24:59,656 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,657 - INFO - case_010
+2018-08-24 09:24:59,657 - INFO - setup is 
+2018-08-24 09:24:59,657 - INFO - case_name is 用户预约id获取
+2018-08-24 09:24:59,658 - INFO - test_assert is 
+2018-08-24 09:24:59,658 - INFO - yaml_data:None
+2018-08-24 09:24:59,659 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,659 - INFO - case_011
+2018-08-24 09:24:59,659 - INFO - setup is 
+2018-08-24 09:24:59,659 - INFO - case_name is 医生登录
+2018-08-24 09:24:59,659 - INFO - test_assert is 
+2018-08-24 09:24:59,660 - INFO - yaml_data:None
+2018-08-24 09:24:59,660 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,661 - INFO - case_012
+2018-08-24 09:24:59,661 - INFO - setup is 
+2018-08-24 09:24:59,661 - INFO - case_name is 医生提交资质认证
+2018-08-24 09:24:59,661 - INFO - test_assert is 
+2018-08-24 09:24:59,662 - INFO - yaml_data:None
+2018-08-24 09:24:59,662 - INFO - handle_param-data: {
+  "Name": "技术测试(自动化1)",
+  "IdCard": "34240119920525344x",
+  "Hospital": "自动化医院",
+  "Department": "02",
+  "DoctorRank": "住院医师",
+  "DoctorTitle": "自动化医生title",
+  "CertificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitlePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitleCode": null,
+  "TitleCodeObtainedTime": null,
+  "QualificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationPicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "PracticeCode": null,
+  "PracticeCodeObtainedTime": null,
+  "DoctorCertificatePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "DoctorCertificatePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationCode": null,
+  "QualificationCodeObtainedTime": null,
+  "MultiLocaltionQualification": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardBackPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "SignaturePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "CertificationType":0,
+  "DoctorAuthenticateStatus":1,
+  "CityId": "120100"
+} && type(data):<class 'str'>
+2018-08-24 09:24:59,674 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,674 - INFO - case_013
+2018-08-24 09:24:59,675 - INFO - setup is 
+2018-08-24 09:24:59,675 - INFO - case_name is 管理端审方登录
+2018-08-24 09:24:59,675 - INFO - test_assert is 
+2018-08-24 09:24:59,675 - INFO - yaml_data:None
+2018-08-24 09:24:59,675 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,676 - INFO - case_014
+2018-08-24 09:24:59,676 - INFO - setup is 
+2018-08-24 09:24:59,676 - INFO - case_name is 管理端审核医生认证
+2018-08-24 09:24:59,676 - INFO - test_assert is 
+2018-08-24 09:24:59,676 - INFO - yaml_data:None
+2018-08-24 09:24:59,677 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,677 - INFO - case_015
+2018-08-24 09:24:59,677 - INFO - setup is 
+2018-08-24 09:24:59,677 - INFO - case_name is 医生端检查医生审核状态
+2018-08-24 09:24:59,677 - INFO - test_assert is 
+2018-08-24 09:24:59,678 - INFO - yaml_data:None
+2018-08-24 09:24:59,678 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,679 - INFO - case_016
+2018-08-24 09:24:59,679 - INFO - setup is 
+2018-08-24 09:24:59,679 - INFO - case_name is 创建就诊记录获取visitid
+2018-08-24 09:24:59,679 - INFO - test_assert is 
+2018-08-24 09:24:59,679 - INFO - yaml_data:None
+2018-08-24 09:24:59,679 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,680 - INFO - case_017
+2018-08-24 09:24:59,680 - INFO - setup is 
+2018-08-24 09:24:59,680 - INFO - case_name is 医生保存电子病历
+2018-08-24 09:24:59,680 - INFO - test_assert is 
+2018-08-24 09:24:59,680 - INFO - yaml_data:None
+2018-08-24 09:24:59,684 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,685 - INFO - case_018
+2018-08-24 09:24:59,685 - INFO - setup is 
+2018-08-24 09:24:59,685 - INFO - case_name is 创建处方获取recipeId
+2018-08-24 09:24:59,685 - INFO - test_assert is 
+2018-08-24 09:24:59,686 - INFO - yaml_data:None
+2018-08-24 09:24:59,687 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,688 - INFO - case_019
+2018-08-24 09:24:59,688 - INFO - setup is 
+2018-08-24 09:24:59,688 - INFO - case_name is 医生提交西药处方
+2018-08-24 09:24:59,688 - INFO - test_assert is 
+2018-08-24 09:24:59,688 - INFO - yaml_data:None
+2018-08-24 09:24:59,689 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,689 - INFO - case_020
+2018-08-24 09:24:59,689 - INFO - setup is 
+2018-08-24 09:24:59,689 - INFO - case_name is 审方获取待审处方
+2018-08-24 09:24:59,689 - INFO - test_assert is 
+2018-08-24 09:24:59,690 - INFO - yaml_data:None
+2018-08-24 09:24:59,690 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,691 - INFO - case_021
+2018-08-24 09:24:59,691 - INFO - setup is 
+2018-08-24 09:24:59,691 - INFO - case_name is 审方审核失败
+2018-08-24 09:24:59,691 - INFO - test_assert is 
+2018-08-24 09:24:59,691 - INFO - yaml_data:None
+2018-08-24 09:24:59,692 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,692 - INFO - case_022
+2018-08-24 09:24:59,692 - INFO - setup is 
+2018-08-24 09:24:59,692 - INFO - case_name is 医生修改处方
+2018-08-24 09:24:59,692 - INFO - test_assert is 
+2018-08-24 09:24:59,692 - INFO - yaml_data:None
+2018-08-24 09:24:59,693 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,693 - INFO - case_023
+2018-08-24 09:24:59,693 - INFO - setup is 
+2018-08-24 09:24:59,694 - INFO - case_name is 审方审核成功
+2018-08-24 09:24:59,694 - INFO - test_assert is 
+2018-08-24 09:24:59,694 - INFO - yaml_data:None
+2018-08-24 09:24:59,694 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,695 - INFO - case_024
+2018-08-24 09:24:59,695 - INFO - setup is 
+2018-08-24 09:24:59,695 - INFO - case_name is 用户登录
+2018-08-24 09:24:59,695 - INFO - test_assert is 
+2018-08-24 09:24:59,695 - INFO - yaml_data:None
+2018-08-24 09:24:59,696 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,696 - INFO - case_025
+2018-08-24 09:24:59,697 - INFO - setup is 
+2018-08-24 09:24:59,697 - INFO - case_name is 用户填写收货地址
+2018-08-24 09:24:59,697 - INFO - test_assert is 
+2018-08-24 09:24:59,698 - INFO - yaml_data:None
+2018-08-24 09:24:59,698 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,699 - INFO - case_026
+2018-08-24 09:24:59,699 - INFO - setup is 
+2018-08-24 09:24:59,699 - INFO - case_name is 用户下单
+2018-08-24 09:24:59,699 - INFO - test_assert is 
+2018-08-24 09:24:59,700 - INFO - yaml_data:None
+2018-08-24 09:24:59,700 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,701 - INFO - case_027
+2018-08-24 09:24:59,701 - INFO - setup is 
+2018-08-24 09:24:59,701 - INFO - case_name is 取消药品订单
+2018-08-24 09:24:59,701 - INFO - test_assert is 
+2018-08-24 09:24:59,701 - INFO - yaml_data:None
+2018-08-24 09:24:59,702 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,704 - INFO - case_028
+2018-08-24 09:24:59,704 - INFO - setup is 
+2018-08-24 09:24:59,704 - INFO - case_name is 创建检查申请
+2018-08-24 09:24:59,704 - INFO - test_assert is 
+2018-08-24 09:24:59,704 - INFO - yaml_data:None
+2018-08-24 09:24:59,705 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,706 - INFO - case_029
+2018-08-24 09:24:59,706 - INFO - setup is 
+2018-08-24 09:24:59,706 - INFO - case_name is 获取检查申请保存id
+2018-08-24 09:24:59,706 - INFO - test_assert is 
+2018-08-24 09:24:59,706 - INFO - yaml_data:None
+2018-08-24 09:24:59,707 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,708 - INFO - case_030
+2018-08-24 09:24:59,708 - INFO - setup is 
+2018-08-24 09:24:59,708 - INFO - case_name is 医生提交检查项
+2018-08-24 09:24:59,708 - INFO - test_assert is 
+2018-08-24 09:24:59,709 - INFO - yaml_data:None
+2018-08-24 09:24:59,709 - INFO - traceback.print_exc():None,'NoneType' object is not subscriptable
+2018-08-24 09:24:59,710 - INFO - None
+2018-08-24 09:24:59,711 - INFO - TestOver
+2018-08-24 09:24:59,997 - INFO - 邮件已发送成功!
