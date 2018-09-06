@@ -69,7 +69,8 @@ class TestMain(unittest.TestCase):
                 self._handle.handle_teardown(teardown, res_content)
 
         except Exception as e:
-            logger.info('traceback.print_exc():%s,%s' % (traceback.print_exc(), e))
+            logger.error('traceback.print_exc():%s,%s' % (traceback.print_exc(), e))
+            logger.info('traceback.print_exc():%s,%s' % (traceback.format_exc(), e))
 
             logger.info("case_%s" % case_id)
             logger.info("case_name is %s" % case_name)
