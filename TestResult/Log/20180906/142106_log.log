@@ -1,0 +1,308 @@
+2018-09-06 14:21:06,048 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"testsuperadmin3",
+ "password":"elephantpwd123",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-09-06 14:21:06,487 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 14:21:11,063 - ERROR - traceback.print_exc():None,
+2018-09-06 14:21:11,064 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 66, in test_main
+    assert 200 <= res_code < 300
+AssertionError
+,
+2018-09-06 14:21:11,064 - INFO - case_002
+2018-09-06 14:21:11,065 - INFO - case_name is 用户列表
+2018-09-06 14:21:11,065 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 14:21:11,065 - INFO - --------------------------------------------
+2018-09-06 14:21:11,065 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 14:21:11,065 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 14:21:11,066 - INFO - res.headers:{'Server': 'nginx/1.12.2', 'Date': 'Thu, 06 Sep 2018 06:21:11 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '55', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Expires': '-1', 'Elephant.Admin.ApiGateway-Global-ID': '9dab56a1-2c8e-4933-a625-ee50b6331f5d', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET'}
+2018-09-06 14:21:11,113 - INFO - handle_param-data: {
+  "Name": "TestUser111",
+  "IdCard": "510821199205141214",
+  "Gender": 0,
+  "StoreCode": "A05E1F92-CA15-4F68-90E1-197E636A9899",
+  "PhoneNumber": "15400000111",
+  "Password":"123456",
+  "Source": 0,
+  "OpenID": ""
+} && type(data):<class 'str'>
+2018-09-06 14:21:18,158 - ERROR - traceback.print_exc():None,
+2018-09-06 14:21:18,158 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 66, in test_main
+    assert 200 <= res_code < 300
+AssertionError
+,
+2018-09-06 14:21:18,159 - INFO - case_003
+2018-09-06 14:21:18,159 - INFO - case_name is 新增用户
+2018-09-06 14:21:18,159 - INFO - url:https://qa-account-ms.dr-elephant.com/api/v1/Account/AdminRegisterPatient
+2018-09-06 14:21:18,160 - INFO - --------------------------------------------
+2018-09-06 14:21:18,160 - INFO - res_code:409 & type:<class 'int'>
+2018-09-06 14:21:18,160 - INFO - res_content:b'{"Message":"\xe8\xaf\xa5\xe6\x89\x8b\xe6\x9c\xba\xe5\x8f\xb7\xe5\xb7\xb2\xe6\xb3\xa8\xe5\x86\x8c"}'
+2018-09-06 14:21:18,161 - INFO - res.headers:{'Server': 'nginx/1.12.2', 'Date': 'Thu, 06 Sep 2018 06:21:18 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '35', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Expires': '-1', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET'}
+2018-09-06 14:21:18,189 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000111&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 14:21:18,237 - ERROR - traceback.print_exc():None,
+2018-09-06 14:21:18,237 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 66, in test_main
+    assert 200 <= res_code < 300
+AssertionError
+,
+2018-09-06 14:21:18,237 - INFO - case_004
+2018-09-06 14:21:18,237 - INFO - case_name is 根据用户名获取用户信息
+2018-09-06 14:21:18,237 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000111&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 14:21:18,238 - INFO - --------------------------------------------
+2018-09-06 14:21:18,238 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 14:21:18,238 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 14:21:18,238 - INFO - res.headers:{'Server': 'nginx/1.12.2', 'Date': 'Thu, 06 Sep 2018 06:21:18 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '55', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Expires': '-1', 'Elephant.Admin.ApiGateway-Global-ID': '72dfe3c6-e27a-4ab9-bc5f-ced96c2875c0', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET'}
+2018-09-06 14:21:18,257 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Doctors/Audited?pageIndex=1&pageSize=15&nameOrPhone=18321802242
+2018-09-06 14:21:26,935 - INFO - handle_param-data: {
+  "StartDateTime": "2018-09-06 22:30:00",
+  "EndDateTime": "2018-09-06 23:00:00",
+  "DoctorId": "c91afa1f-32ba-e711-8da0-000c29ac6d36",
+  "Price": 0,
+  "Services": [
+    {
+      "DoctorServiceSettingKey":"483bfba7-5cd3-e711-8da1-000c29ac6d36",
+    }
+  ]
+} && type(data):<class 'str'>
+2018-09-06 14:21:34,573 - ERROR - traceback.print_exc():None,
+2018-09-06 14:21:34,574 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 66, in test_main
+    assert 200 <= res_code < 300
+AssertionError
+,
+2018-09-06 14:21:34,574 - INFO - case_006
+2018-09-06 14:21:34,575 - INFO - case_name is 医生排期
+2018-09-06 14:21:34,575 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Schedules
+2018-09-06 14:21:34,575 - INFO - --------------------------------------------
+2018-09-06 14:21:34,575 - INFO - res_code:409 & type:<class 'int'>
+2018-09-06 14:21:34,575 - INFO - res_content:b'{"ErrorCode":10500,"ErrorMessage":"\xe6\x8e\x92\xe6\x9c\x9f\xe6\x97\xb6\xe9\x97\xb4\xe5\xad\x98\xe5\x9c\xa8\xe5\x86\xb2\xe7\xaa\x81"}'
+2018-09-06 14:21:34,576 - INFO - res.headers:{'Server': 'nginx/1.12.2', 'Date': 'Thu, 06 Sep 2018 06:21:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '61', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Expires': '-1', 'Elephant.Admin.ApiGateway-Global-ID': 'ae134a26-6ce8-4e38-8f64-30abe0b1a488', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET'}
+2018-09-06 14:21:34,621 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Schedules/c91afa1f-32ba-e711-8da0-000c29ac6d36/2018-09-06/2018-09-06
+2018-09-06 14:21:34,923 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewAppointmentList?pager.pageIndex=1&pager.pageSize=15&filter.keyword=
+2018-09-06 14:21:34,964 - ERROR - traceback.print_exc():None,
+2018-09-06 14:21:34,964 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 66, in test_main
+    assert 200 <= res_code < 300
+AssertionError
+,
+2018-09-06 14:21:34,965 - INFO - case_008
+2018-09-06 14:21:34,965 - INFO - case_name is 预约管理列表
+2018-09-06 14:21:34,965 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewAppointmentList?pager.pageIndex=1&pager.pageSize=15&filter.keyword=
+2018-09-06 14:21:34,965 - INFO - --------------------------------------------
+2018-09-06 14:21:34,965 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 14:21:34,965 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 14:21:34,965 - INFO - res.headers:{'Server': 'nginx/1.12.2', 'Date': 'Thu, 06 Sep 2018 06:21:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '55', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Expires': '-1', 'Elephant.Admin.ApiGateway-Global-ID': '63e6742e-18a8-41fc-bd4a-981f8d9bd9ee', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET'}
+2018-09-06 14:21:34,982 - ERROR - traceback.print_exc():None,'PatientId'
+2018-09-06 14:21:34,982 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 49, in test_main
+    self.param = self._handle.handle_param(param)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 84, in handle_param
+    datavalue = data.replace("{"+i+"}", '"'+datayaml[i]+'"')
+KeyError: 'PatientId'
+,'PatientId'
+2018-09-06 14:21:34,982 - INFO - case_009
+2018-09-06 14:21:34,982 - INFO - case_name is 用户预约订单创建
+2018-09-06 14:21:34,983 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/VisitOrders
+2018-09-06 14:21:34,983 - INFO - --------------------------------------------
+2018-09-06 14:21:34,997 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Appointments?pager.pageIndex=1&pager.pageSize=15&filter.keyword=TestUser111
+2018-09-06 14:21:35,538 - INFO - handle_param-data: {
+"client_id":"Elephant.Doctor",
+"client_secret":"F55BF8BD65084C38B496E3A3F15F0FB3",
+"grant_type":"password",
+"username":"18321802242",
+"password":"123456"
+} && type(data):<class 'str'>
+2018-09-06 14:21:41,911 - INFO - handle_param-data: {
+  "Name": "技术测试(自动化1)",
+  "IdCard": "34240119920525344x",
+  "Hospital": "自动化医院",
+  "Department": "02",
+  "DoctorRank": "住院医师",
+  "DoctorTitle": "自动化医生title",
+  "CertificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitlePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitleCode": null,
+  "TitleCodeObtainedTime": null,
+  "QualificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationPicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "PracticeCode": null,
+  "PracticeCodeObtainedTime": null,
+  "DoctorCertificatePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "DoctorCertificatePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationCode": null,
+  "QualificationCodeObtainedTime": null,
+  "MultiLocaltionQualification": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardBackPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "SignaturePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "CertificationType":0,
+  "DoctorAuthenticateStatus":1,
+  "CityId": "120100"
+} && type(data):<class 'str'>
+2018-09-06 14:21:46,530 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"15012345601",
+ "password":"123456",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-09-06 14:21:46,961 - INFO - handle_param-data: {
+  "Id": "c91afa1f-32ba-e711-8da0-000c29ac6d36",
+  "Decision": 1,
+  "DoctorAuthenticateStatus": "Level1",
+  "Auditdescription": ""
+} && type(data):<class 'str'>
+2018-09-06 14:21:54,315 - INFO - get method url:https://qa-doctor-api.dr-elephant.com/api/v2/Doctors/Current
+2018-09-06 14:21:54,567 - ERROR - traceback.print_exc():None,'PatientId'
+2018-09-06 14:21:54,569 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 49, in test_main
+    self.param = self._handle.handle_param(param)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 84, in handle_param
+    datavalue = data.replace("{"+i+"}", '"'+datayaml[i]+'"')
+KeyError: 'PatientId'
+,'PatientId'
+2018-09-06 14:21:54,569 - INFO - case_016
+2018-09-06 14:21:54,569 - INFO - case_name is 创建就诊记录获取visitid
+2018-09-06 14:21:54,570 - INFO - url:https://qa-doctor-api.dr-elephant.com/api/v2/Visits
+2018-09-06 14:21:54,570 - INFO - --------------------------------------------
+2018-09-06 14:21:54,582 - ERROR - traceback.print_exc():None,'visitId'
+2018-09-06 14:21:54,583 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'visitId'
+,'visitId'
+2018-09-06 14:21:54,583 - INFO - case_017
+2018-09-06 14:21:54,583 - INFO - case_name is 医生保存电子病历
+2018-09-06 14:21:54,596 - ERROR - traceback.print_exc():None,'visitId'
+2018-09-06 14:21:54,596 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'visitId'
+,'visitId'
+2018-09-06 14:21:54,596 - INFO - case_018
+2018-09-06 14:21:54,596 - INFO - case_name is 创建处方获取recipeId
+2018-09-06 14:21:54,606 - ERROR - traceback.print_exc():None,'recipeId'
+2018-09-06 14:21:54,606 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'recipeId'
+,'recipeId'
+2018-09-06 14:21:54,606 - INFO - case_019
+2018-09-06 14:21:54,606 - INFO - case_name is 医生提交西药处方
+2018-09-06 14:21:54,622 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Recipes/Paged/Admin?filter.pager.pageIndex=1&filter.pager.pageSize=15&filter.keyWord=TestUser111&filter.isAudited=false
+2018-09-06 14:21:55,212 - ERROR - traceback.print_exc():None,'recipeId'
+2018-09-06 14:21:55,213 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'recipeId'
+,'recipeId'
+2018-09-06 14:21:55,213 - INFO - case_021
+2018-09-06 14:21:55,213 - INFO - case_name is 审方审核失败
+2018-09-06 14:21:55,233 - ERROR - traceback.print_exc():None,'recipeId'
+2018-09-06 14:21:55,233 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'recipeId'
+,'recipeId'
+2018-09-06 14:21:55,234 - INFO - case_022
+2018-09-06 14:21:55,234 - INFO - case_name is 医生修改处方
+2018-09-06 14:21:55,242 - ERROR - traceback.print_exc():None,'recipeId'
+2018-09-06 14:21:55,242 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'recipeId'
+,'recipeId'
+2018-09-06 14:21:55,243 - INFO - case_023
+2018-09-06 14:21:55,243 - INFO - case_name is 审方审核成功
+2018-09-06 14:21:55,259 - INFO - handle_param-data: {
+ "client_id":"Elephant.Patient",
+ "client_secret":"B215BCC87468453B81A09244EAE3EC62",
+ "grant_type":"password",
+ "username":"15400000111",
+ "password":"123456"
+} && type(data):<class 'str'>
+2018-09-06 14:21:55,596 - ERROR - traceback.print_exc():None,'PatientId'
+2018-09-06 14:21:55,597 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 49, in test_main
+    self.param = self._handle.handle_param(param)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 84, in handle_param
+    datavalue = data.replace("{"+i+"}", '"'+datayaml[i]+'"')
+KeyError: 'PatientId'
+,'PatientId'
+2018-09-06 14:21:55,597 - INFO - case_025
+2018-09-06 14:21:55,597 - INFO - case_name is 用户填写收货地址
+2018-09-06 14:21:55,597 - INFO - url:https://qa-patient-api.dr-elephant.com/api/v2/Address
+2018-09-06 14:21:55,597 - INFO - --------------------------------------------
+2018-09-06 14:21:55,604 - ERROR - traceback.print_exc():None,'PatientId'
+2018-09-06 14:21:55,604 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 49, in test_main
+    self.param = self._handle.handle_param(param)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 84, in handle_param
+    datavalue = data.replace("{"+i+"}", '"'+datayaml[i]+'"')
+KeyError: 'PatientId'
+,'PatientId'
+2018-09-06 14:21:55,604 - INFO - case_026
+2018-09-06 14:21:55,604 - INFO - case_name is 用户下单
+2018-09-06 14:21:55,604 - INFO - url:https://qa-patient-api.dr-elephant.com/api/v2/DrugOrders/Submit
+2018-09-06 14:21:55,604 - INFO - --------------------------------------------
+2018-09-06 14:21:55,611 - ERROR - traceback.print_exc():None,'DrugOrderId'
+2018-09-06 14:21:55,611 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 49, in test_main
+    self.param = self._handle.handle_param(param)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 84, in handle_param
+    datavalue = data.replace("{"+i+"}", '"'+datayaml[i]+'"')
+KeyError: 'DrugOrderId'
+,'DrugOrderId'
+2018-09-06 14:21:55,612 - INFO - case_027
+2018-09-06 14:21:55,612 - INFO - case_name is 取消药品订单
+2018-09-06 14:21:55,612 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Orders/Cancel
+2018-09-06 14:21:55,612 - INFO - --------------------------------------------
+2018-09-06 14:21:55,619 - ERROR - traceback.print_exc():None,'visitId'
+2018-09-06 14:21:55,619 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'visitId'
+,'visitId'
+2018-09-06 14:21:55,619 - INFO - case_028
+2018-09-06 14:21:55,619 - INFO - case_name is 创建检查申请
+2018-09-06 14:21:55,626 - ERROR - traceback.print_exc():None,'visitId'
+2018-09-06 14:21:55,627 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'visitId'
+,'visitId'
+2018-09-06 14:21:55,627 - INFO - case_029
+2018-09-06 14:21:55,627 - INFO - case_name is 获取检查申请保存id
+2018-09-06 14:21:55,633 - ERROR - traceback.print_exc():None,'sid'
+2018-09-06 14:21:55,634 - INFO - traceback.print_exc():Traceback (most recent call last):
+  File "E:\python\codetest\dx_interface_test\TestCase\Test_Mian.py", line 45, in test_main
+    self.path = self._handle.handle_url(path)
+  File "E:\python\codetest\dx_interface_test\TestCase\Handle.py", line 96, in handle_url
+    datavalue = data.replace("{"+i+"}", datayaml[i])
+KeyError: 'sid'
+,'sid'
+2018-09-06 14:21:55,634 - INFO - case_030
+2018-09-06 14:21:55,634 - INFO - case_name is 医生提交检查项
+2018-09-06 14:21:55,641 - INFO - {'AppointmentId': 'e403355c-b43e-e811-8da7-000c29ede330', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-09-06 23:00:00', 'ScheduleId': '48625f29-7db1-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-09-06 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'DWj2txvRWBe70wDpqnc-2W_t9tdRaCtnG-L2QHPs8cOSvm2I4wroQO1SDCFwSYuwq_v8SpXForO5_FYGU_O4Kksl9tNmRX5p8T5GVoX8o8GGTD7AErZPjCLezgS0fYwM1JeAFNVwuoOy9ssih6fcZBI9AbSP96a8AGrIjejHnRncxgizZWMk8mD3HY4BED-z7PlWC-FDSf1-l2DCN2GIdxRfyPPoxs1XGZGxqv-PIPqB25DXBQcPssNjskWv_51Q0oPos04Lbcr5O6XQ3kH5PtNuZC4HlX3m7666wWnZTB-bOLqd855X5DaZEM-c9KjaEQkX0Iltowvz-wdoKCx8F0hmOrc4eQMmilFJqeZgSc8f4_L7LKGoonnpiGQw-Qer2OFBWOgQcndTXBJGKI97Lb9fKBVZCfYtlLfUVHqoB2uecAD1TyhnZlvEx-17-6_JWlk5CdXhdz7sLZx1R-QSIQhKgD9SBF6GVUx58dGT4ZXf411fFMrCl34H4u84A14SFq0XFuw0KdsO8qyNZv8ebuo_0v9MzHRg3Ff-bvLCLYCcuK1a2Xzv6XsCIUSq_I7BjnB1BgDMSJgF_OeMO5AJfA', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': 'oettFbvT4czWh5XDJlCOcU_0SeRPsrFue9l4dR3Sh3HzWfQ_dynQ9haQgDbL2DpUSz0gMG38D7rNC0WZw558ZzXNHu6cnkuARtEjsL1o2s8hQM7ZHDLdgMWvXS1t1HvVafLdC0cAmJUPFTYAxWDyPpVV0TDL1IyZPcoUcU0zTjfTBkGVfZV7zq8Busc1vCF9V_Q9IBfRpZkP3r9zAMpQNzdSn4LRvuvCYpPxTuwz6ni1f-BTbd5fU2FqFzxMSYaroh0W-Tn0cXyljcfosDLE7Csrn0YyW-Jmq6Y0EcPHhVEu_TyTrvBifbJzI_ooVFAfNvgTYaYmps5lGphAYBHgfgQJoxgSzIcuh8zkMU7WQTV0hdoX-NXLZFzHt-c87pSLvyk1pa14O8XnUJKpho5qS9LvbW00o_GaOmF5X-ru-AO1PGvGKoeIx6jZ_4jLPbrUoVc8LtLpTEyH4bRPnmji7fXqKKL9_baKgGGEe9fOR1X81MC5B2puol5-NzcBlyAapVOtIvI6XO0G8FVawcq0hIR1a3CohhOadg9y5tcPrqJpiBqilaRS-b1epIK7WlnUA8vyNmpqcrYhMMZC0b8pOg', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'h0lavAB738DUhqpLNyLL6_MTZdX84M4YxbFo1IN-9mTcFOqdTeR343B8g1zFz3T8LlS15DYo4ePiG3YfX9f8ZRmI_X4ueA5vMppYDkfMxedi__9b6oR0_61bvq6--ehYPAbXHd11LJT3LnZoJHOSgvdQVXIUqZ0FfxxVHOugGvWiOQFhKStsqepPvuKBpwuvRkm4oHknyMtaL7R3w2VAaMsLcCRqjNnG4byLEH_YntzZkVLGtfwANUVP-hyDPZZPNdabLb8jpI1r_K6InPnOJjPxwyOtvHEIedmR8RLqXdIraeXuQO_Lmg0zw9FFLSO3XDO2dKe_KFMG4ACBVQ6YrbSx7SbzHqLI8A6Jc4uX2vBTag6tHVbwq3bQWPCBQ19Oz2hKUF8KBwtPnSF6qsuDAJjYKtIINFd4yQAwANvPc4RwUxZUHnx6NXt5RdZK6us1xZgU28ZMg-N7omaZB0KLaHeo_fbRt3r4lj9qU37Hb8U5FOb0fkZQbvnWJfJ_W3sIp61vpV0qrSRrINcOsB1phFJ0cco0UP1x-frTB4lP3N8RiZBsue6dq32Otk_CR3Lk', 'endDate': '2018-09-06', 'num': '111', 'startDate': '2018-09-06', 'user_id': '81204d9d-4445-4451-85b0-788c856e85ae', 'user_idcard': '510821199205141214', 'user_name': 'TestUser111', 'user_phone': '15400000111', 'user_pwd': '123456', 'user_token': 'REjaK0WBEZ4NwxlxEQ1iyjobcYEFZRBDhZTSNEoy_7Pizmd_OeaNmvuykm4P5_7qQPXosZSKCzEUKA1-chVVaaAXZ6Jmm8lVUAIa0NqNdaPPrGPKtJOjMYwoPgBbEWFB_x3WG3K33OZZpfjKXCjNFe0htCRNcxs3us1SrjSYVW9uMuPqLoCIsGCFFgcZ7yxN9AHgDaHbRi848u7mz9jqUgTtCz4-7w9HDzEQcVUlF_4I7phBNU9x-M0_UteU0xLsSvemxGO43ooiUwMBbZ_ow1LSsQVUREwCOZItubNhvyJ2V4pto066ReKPKjjmi8lXm8gNChu_iNiiIMVuyMEJ4YC9VWLq6Ppn5B3I3NlOZv7vdoCywWMHvkI_h7Tj7B20bW0cMuqk334QVMg0Jr05bih3MNRZ6Xk1_hwDw1M6JO0Hm-ycbWkZMCoqHTyEo1eSqwmOz1G5W6dYjkdvL4eqcxdH1rZFrEhk0Yp5COGexKtaKUklinlzLmxmfB2nMayrUsct86Ns4Gv-yyAnwZMUwFRpEzBI4TJxTWKubQtwZRxm2m9STWAeErMwxJbocoSL0fgyJ6dLGGifB4bY2lWNcgBecH8yXT0SeZVtx2JAhqs'}
