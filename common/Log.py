@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 import threading
 
+# ceshi
 class Log:
     def __init__(self):
         global proDir, resultPath, logPath
