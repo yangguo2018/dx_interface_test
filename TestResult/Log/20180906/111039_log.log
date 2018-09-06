@@ -1,0 +1,218 @@
+2018-09-06 11:10:39,462 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，0
+2018-09-06 11:10:39,462 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，1
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，2
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，3
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，4
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，5
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，6
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，7
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，8
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，9
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，10
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，11
+2018-09-06 11:10:39,463 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，12
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，13
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，14
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，15
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，16
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，17
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，18
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，19
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，20
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，21
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，22
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，23
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，24
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，25
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，26
+2018-09-06 11:10:39,464 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，27
+2018-09-06 11:10:39,465 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，28
+2018-09-06 11:10:39,465 - INFO - testcase_func is <function TestMain.test_main at 0x0000000003A33268>，29
+2018-09-06 11:10:39,466 - INFO - ----Test Start----
+2018-09-06 11:10:39,487 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"testsuperadmin3",
+ "password":"elephantpwd123",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-09-06 11:10:39,808 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 11:10:39,843 - INFO - traceback.print_exc():None,
+2018-09-06 11:10:39,843 - INFO - case_002
+2018-09-06 11:10:39,843 - INFO - case_name is 用户列表
+2018-09-06 11:10:39,844 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 11:10:39,844 - INFO - --------------------------------------------
+2018-09-06 11:10:39,844 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 11:10:39,844 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 11:10:39,844 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '55', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': 'e801f209-a1a0-40e3-aa09-f0c2520867d4', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Thu, 06 Sep 2018 03:10:38 GMT'}
+2018-09-06 11:10:39,861 - INFO - handle_param-data: {
+  "Name": "TestUser110",
+  "IdCard": "510821199205141214",
+  "Gender": 0,
+  "StoreCode": "A05E1F92-CA15-4F68-90E1-197E636A9899",
+  "PhoneNumber": "15400000110",
+  "Password":"123456",
+  "Source": 0,
+  "OpenID": ""
+} && type(data):<class 'str'>
+2018-09-06 11:10:39,964 - INFO - traceback.print_exc():None,
+2018-09-06 11:10:39,965 - INFO - case_003
+2018-09-06 11:10:39,965 - INFO - case_name is 新增用户
+2018-09-06 11:10:39,965 - INFO - url:https://qa-account-ms.dr-elephant.com/api/v1/Account/AdminRegisterPatient
+2018-09-06 11:10:39,966 - INFO - --------------------------------------------
+2018-09-06 11:10:39,966 - INFO - res_code:409 & type:<class 'int'>
+2018-09-06 11:10:39,966 - INFO - res_content:b'{"Message":"\xe8\xaf\xa5\xe6\x89\x8b\xe6\x9c\xba\xe5\x8f\xb7\xe5\xb7\xb2\xe6\xb3\xa8\xe5\x86\x8c"}'
+2018-09-06 11:10:39,966 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Thu, 06 Sep 2018 03:10:38 GMT', 'Content-Length': '35'}
+2018-09-06 11:10:39,993 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000110&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 11:10:40,031 - INFO - traceback.print_exc():None,
+2018-09-06 11:10:40,032 - INFO - case_004
+2018-09-06 11:10:40,032 - INFO - case_name is 根据用户名获取用户信息
+2018-09-06 11:10:40,032 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewList?pager.pageIndex=1&pager.pageSize=15&filter.loginAccount=15400000110&filter.patientName=&filter.idCard=&filter.source=&filter.storeId=
+2018-09-06 11:10:40,032 - INFO - --------------------------------------------
+2018-09-06 11:10:40,032 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 11:10:40,032 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 11:10:40,032 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '55', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '19aece87-3504-4814-b0c3-9d4eb8f0c927', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Thu, 06 Sep 2018 03:10:38 GMT'}
+2018-09-06 11:10:40,042 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Doctors/Audited?pageIndex=1&pageSize=15&nameOrPhone=18321802242
+2018-09-06 11:10:40,540 - INFO - handle_param-data: {
+  "StartDateTime": "2018-09-06 22:30:00",
+  "EndDateTime": "2018-09-06 23:00:00",
+  "DoctorId": "c91afa1f-32ba-e711-8da0-000c29ac6d36",
+  "Price": 0,
+  "Services": [
+    {
+      "DoctorServiceSettingKey":"483bfba7-5cd3-e711-8da1-000c29ac6d36",
+    }
+  ]
+} && type(data):<class 'str'>
+2018-09-06 11:10:40,617 - INFO - traceback.print_exc():None,
+2018-09-06 11:10:40,617 - INFO - case_006
+2018-09-06 11:10:40,618 - INFO - case_name is 医生排期
+2018-09-06 11:10:40,618 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Schedules
+2018-09-06 11:10:40,618 - INFO - --------------------------------------------
+2018-09-06 11:10:40,618 - INFO - res_code:409 & type:<class 'int'>
+2018-09-06 11:10:40,619 - INFO - res_content:b'{"ErrorCode":10500,"ErrorMessage":"\xe6\x8e\x92\xe6\x9c\x9f\xe6\x97\xb6\xe9\x97\xb4\xe5\xad\x98\xe5\x9c\xa8\xe5\x86\xb2\xe7\xaa\x81"}'
+2018-09-06 11:10:40,619 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '61', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '13158534-6235-4563-81ac-ff46cda98ab2', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Thu, 06 Sep 2018 03:10:38 GMT'}
+2018-09-06 11:10:40,653 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Schedules/c91afa1f-32ba-e711-8da0-000c29ac6d36/2018-09-06/2018-09-06
+2018-09-06 11:10:40,728 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewAppointmentList?pager.pageIndex=1&pager.pageSize=15&filter.keyword=
+2018-09-06 11:10:40,762 - INFO - traceback.print_exc():None,
+2018-09-06 11:10:40,762 - INFO - case_008
+2018-09-06 11:10:40,762 - INFO - case_name is 预约管理列表
+2018-09-06 11:10:40,762 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Patients/AdminViewAppointmentList?pager.pageIndex=1&pager.pageSize=15&filter.keyword=
+2018-09-06 11:10:40,762 - INFO - --------------------------------------------
+2018-09-06 11:10:40,762 - INFO - res_code:400 & type:<class 'int'>
+2018-09-06 11:10:40,762 - INFO - res_content:b'{"ErrorCode":10400,"ErrorMessage":"\xe5\x8f\x82\xe6\x95\xb0\xe9\xaa\x8c\xe8\xaf\x81\xe5\xa4\xb1\xe8\xb4\xa5"}'
+2018-09-06 11:10:40,762 - INFO - res.headers:{'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'Content-Length': '55', 'Content-Type': 'application/json; charset=utf-8', 'Expires': '-1', 'Server': 'Microsoft-IIS/10.0', 'Elephant.Admin.ApiGateway-Global-ID': '202d7395-dd16-4060-8675-ac8cd5b7c18a', 'X-AspNet-Version': '4.0.30319', 'X-Powered-By': 'ASP.NET', 'Date': 'Thu, 06 Sep 2018 03:10:38 GMT'}
+2018-09-06 11:10:40,774 - INFO - traceback.print_exc():None,'PatientId'
+2018-09-06 11:10:40,774 - INFO - case_009
+2018-09-06 11:10:40,774 - INFO - case_name is 用户预约订单创建
+2018-09-06 11:10:40,774 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/VisitOrders
+2018-09-06 11:10:40,774 - INFO - --------------------------------------------
+2018-09-06 11:10:40,785 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Appointments?pager.pageIndex=1&pager.pageSize=15&filter.keyword=TestUser110
+2018-09-06 11:10:41,105 - INFO - handle_param-data: {
+"client_id":"Elephant.Doctor",
+"client_secret":"F55BF8BD65084C38B496E3A3F15F0FB3",
+"grant_type":"password",
+"username":"18321802242",
+"password":"123456"
+} && type(data):<class 'str'>
+2018-09-06 11:10:41,193 - INFO - handle_param-data: {
+  "Name": "技术测试(自动化1)",
+  "IdCard": "34240119920525344x",
+  "Hospital": "自动化医院",
+  "Department": "02",
+  "DoctorRank": "住院医师",
+  "DoctorTitle": "自动化医生title",
+  "CertificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitlePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "TitleCode": null,
+  "TitleCodeObtainedTime": null,
+  "QualificationPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationPicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "PracticeCode": null,
+  "PracticeCodeObtainedTime": null,
+  "DoctorCertificatePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "DoctorCertificatePicUri2nd": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "QualificationCode": null,
+  "QualificationCodeObtainedTime": null,
+  "MultiLocaltionQualification": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardBackPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "IdCardPicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "SignaturePicUri": "https://qa-res.dr-elephant.com/api/Users/c9f5f356-9da6-4ab5-8fd4-8af85d7d386a/AssetOfFiles/5d0a3449-34db-e711-8d9b-000c2918a2b6",
+  "CertificationType":0,
+  "DoctorAuthenticateStatus":1,
+  "CityId": "120100"
+} && type(data):<class 'str'>
+2018-09-06 11:10:41,339 - INFO - handle_param-data: 
+{
+ "grant_type":"password",
+ "username":"15012345601",
+ "password":"123456",
+ "client_id":"Elephant.Admin",
+ "client_secret":"9CF09F23E2CD43718980F0CD483D4B07"
+} && type(data):<class 'str'>
+2018-09-06 11:10:41,423 - INFO - handle_param-data: {
+  "Id": "c91afa1f-32ba-e711-8da0-000c29ac6d36",
+  "Decision": 1,
+  "DoctorAuthenticateStatus": "Level1",
+  "Auditdescription": ""
+} && type(data):<class 'str'>
+2018-09-06 11:10:41,574 - INFO - get method url:https://qa-doctor-api.dr-elephant.com/api/v2/Doctors/Current
+2018-09-06 11:10:41,669 - INFO - traceback.print_exc():None,'PatientId'
+2018-09-06 11:10:41,669 - INFO - case_016
+2018-09-06 11:10:41,669 - INFO - case_name is 创建就诊记录获取visitid
+2018-09-06 11:10:41,670 - INFO - url:https://qa-doctor-api.dr-elephant.com/api/v2/Visits
+2018-09-06 11:10:41,670 - INFO - --------------------------------------------
+2018-09-06 11:10:41,691 - INFO - traceback.print_exc():None,'visitId'
+2018-09-06 11:10:41,691 - INFO - case_017
+2018-09-06 11:10:41,692 - INFO - case_name is 医生保存电子病历
+2018-09-06 11:10:41,700 - INFO - traceback.print_exc():None,'visitId'
+2018-09-06 11:10:41,701 - INFO - case_018
+2018-09-06 11:10:41,701 - INFO - case_name is 创建处方获取recipeId
+2018-09-06 11:10:41,709 - INFO - traceback.print_exc():None,'recipeId'
+2018-09-06 11:10:41,710 - INFO - case_019
+2018-09-06 11:10:41,710 - INFO - case_name is 医生提交西药处方
+2018-09-06 11:10:41,727 - INFO - get method url:https://qa-admin-api.dr-elephant.com/api/v2/Recipes/Paged/Admin?filter.pager.pageIndex=1&filter.pager.pageSize=15&filter.keyWord=TestUser110&filter.isAudited=false
+2018-09-06 11:10:41,840 - INFO - traceback.print_exc():None,'recipeId'
+2018-09-06 11:10:41,841 - INFO - case_021
+2018-09-06 11:10:41,841 - INFO - case_name is 审方审核失败
+2018-09-06 11:10:41,858 - INFO - traceback.print_exc():None,'recipeId'
+2018-09-06 11:10:41,859 - INFO - case_022
+2018-09-06 11:10:41,859 - INFO - case_name is 医生修改处方
+2018-09-06 11:10:41,874 - INFO - traceback.print_exc():None,'recipeId'
+2018-09-06 11:10:41,874 - INFO - case_023
+2018-09-06 11:10:41,874 - INFO - case_name is 审方审核成功
+2018-09-06 11:10:41,896 - INFO - handle_param-data: {
+ "client_id":"Elephant.Patient",
+ "client_secret":"B215BCC87468453B81A09244EAE3EC62",
+ "grant_type":"password",
+ "username":"15400000110",
+ "password":"123456"
+} && type(data):<class 'str'>
+2018-09-06 11:10:41,990 - INFO - traceback.print_exc():None,'PatientId'
+2018-09-06 11:10:41,990 - INFO - case_025
+2018-09-06 11:10:41,990 - INFO - case_name is 用户填写收货地址
+2018-09-06 11:10:41,990 - INFO - url:https://qa-patient-api.dr-elephant.com/api/v2/Address
+2018-09-06 11:10:41,990 - INFO - --------------------------------------------
+2018-09-06 11:10:41,998 - INFO - traceback.print_exc():None,'PatientId'
+2018-09-06 11:10:41,998 - INFO - case_026
+2018-09-06 11:10:41,998 - INFO - case_name is 用户下单
+2018-09-06 11:10:41,998 - INFO - url:https://qa-patient-api.dr-elephant.com/api/v2/DrugOrders/Submit
+2018-09-06 11:10:41,998 - INFO - --------------------------------------------
+2018-09-06 11:10:42,005 - INFO - traceback.print_exc():None,'DrugOrderId'
+2018-09-06 11:10:42,005 - INFO - case_027
+2018-09-06 11:10:42,005 - INFO - case_name is 取消药品订单
+2018-09-06 11:10:42,005 - INFO - url:https://qa-admin-api.dr-elephant.com/api/v2/Orders/Cancel
+2018-09-06 11:10:42,005 - INFO - --------------------------------------------
+2018-09-06 11:10:42,012 - INFO - traceback.print_exc():None,'visitId'
+2018-09-06 11:10:42,012 - INFO - case_028
+2018-09-06 11:10:42,012 - INFO - case_name is 创建检查申请
+2018-09-06 11:10:42,019 - INFO - traceback.print_exc():None,'visitId'
+2018-09-06 11:10:42,019 - INFO - case_029
+2018-09-06 11:10:42,019 - INFO - case_name is 获取检查申请保存id
+2018-09-06 11:10:42,026 - INFO - traceback.print_exc():None,'sid'
+2018-09-06 11:10:42,027 - INFO - case_030
+2018-09-06 11:10:42,027 - INFO - case_name is 医生提交检查项
+2018-09-06 11:10:42,033 - INFO - {'AppointmentId': '9f146efa-ea3d-e811-8da7-000c29ede330', 'DoctorServiceSettingKey': '483bfba7-5cd3-e711-8da1-000c29ac6d36', 'EndDateTime': '2018-09-06 23:00:00', 'ScheduleId': '48625f29-7db1-e811-8d9e-000c2918a2b6', 'StartDateTime': '2018-09-06 22:30:00', 'StoreId': 'A05E1F92-CA15-4F68-90E1-197E636A9899', 'admin_name': 'testsuperadmin3', 'admin_pwd': 'elephantpwd123', 'admin_token': 'am0dR94y0UnPCMaWkZ3MO0qA6Q7EuftboZXgNEpv3wAmLnA_Qpyl0Klql5cr0Gtp8D0hYBgJU8N4uR3Ul-RAr8FWtvkuKO7cW3o759OHk1KenAL1GX0NXA4ygr6vW7bxmQ2sf15V1HcdglOzLoXWLPOdxIhZePwye8uCBPeWWS8AYKwIgWU6AsycH-zssi3E_qsl2jUbcDSJOvqTOniSODN90k8zb9OSIjSnEnZQOZZx-C22pVn58QAr-UlfnP079ZwsYzyc6QlhzxMcn30Rf3XUsRsF8zs4hSoUZa87iNYAuMb-G9lzWnguLHm4lE11vL-2K1RUHm4Luc0jNJR3qQDlGvENQ7J3_t0nfR-mkn-rm7N-fafI2ow-cxftxb55wo5Y6-UMZwGRdhtcq0I6WaAMw0rt_RztPHkGIM5AwsGB0vnEpqX0HaOuYRiV5ylc3w09LPbuUVnlEG52_Gve-E1JlliphkWyoKK93dzob8Z0mMRTk418lqydlVqrE0lbYkWW6FOQxsTS_LGyfO7PaPUGH3RrVQgF-l6EKZ_twTRXsYcQUrZu8qG4v8JykrttYjW6F_392p1vyiKDygHYAQ', 'check_name': '15012345601', 'check_pwd': '123456', 'check_token': '9tWap3ai4LjUIXb51VXffm4HDN-4QCwd8PKfwNSp4iULMLKPk_3qgStPMcP003CLAL0o7XeSyhxevr6lXn-5mlAxQDUsYWsp8FeVLuwvQqPMHzcZv2uA9V5mCiqS9gt5TSHxYxUkclm7_vnMBA1TVhn9DgWfAMf7bKgM4_C1Yb1lTSMsTA8fybdSoRvP0C6FuDTRin9uAv0UNfeTcrVp6xXzCmjt9X3GaJXnssJayi0HZjYma2x2wfdex4wh4rjNSP4wAnvnSvMyrPdDTGdf_GicGCfZchYgatLPRKQD_lPAEvDWszkidvUqW9SvlKNufK2QOfKnjd9icnlwt6J-1LYQ5-HlIFgl0wPh3dHkzJIDz6yD2EGwRaYu39h3ojbsrouUhVBDk8IlHsLY_1h6mb5RYo5X7XJkvPaxVlVqCH7BJpzmAJxo2GzBO5N09IruJ14iCh986sXm150GNglJ90qDnJkNFsxtqzuHz0EzG7hlVSEzeFkJHtuCd-t5l4tBp9da39csURuS6VrPUWEDkSEaTj1Cks0SBeQhP_B4yAIRVUjI6YjSvmv-BsroKGZCTPa2JdjrvnV0NlL9vdfonw', 'doctorId': 'c91afa1f-32ba-e711-8da0-000c29ac6d36', 'doctor_name': '18321802242', 'doctor_pwd': '123456', 'doctor_token': 'FeHfHOYBtYd_mENsVLGWHCMBz8x-hNIW53c2xY1kQ4n7bwxzOjMSXwHkUKL7taIloIDh7YMLm-PdNoupQ65YkTY3nhZLK9J826Ap1j2KFLkGZN178xrHtTODKhE5yZtufBTsKFAGQapyqjD-yBNyxwVvv5NYzjPnStQWPEC2mWNcJvtLDjixfzaOEsDDofi4UcLfs2ZSswr2UBIr0hLS7AIv5hpjtXoAOwRvoMYhoYHujZ7Y-U6mFQTcqXx0Hv9cRmVrKEab1Oka9iFS30JtDSswhMtUdYhvKBp0LMwsSGLkanNvHyMVSbr_l-tl1FX7F4fcVjik-Uj7vkLBuJt35NIC5gBvdPH6hO1atXTK8Kms45SZ0FbQsKdiCRpi5JGoBu-GptpYpnbqjKSAJwREi8XUZ7knn0NOUJATPd-hyWme_8pPfMB_-ZHThod73v2q2wa073mNZax_bvt7H74xP2p1KdhbQLgWVMYHuPuMP9vQJV6KJB6FCd5YkbkAMdWqzWuoOoZLklPlc24BXbqpzdG1IPjHcWwGs45ZGrymhgmP31R0FCBRsAWQsAjZsDb0xKtKHOiwbFTgRjMfQ0L61A', 'endDate': '2018-09-06', 'num': '110', 'startDate': '2018-09-06', 'user_id': '472b6082-2723-4a58-bbef-aa1990a9dac6', 'user_idcard': '510821199205141214', 'user_name': 'TestUser110', 'user_phone': '15400000110', 'user_pwd': '123456', 'user_token': 'aLfv6xRXsCumkDHJuxMYmomEeSU_P4CD0sJc5FvMZRl5pU9cQZqIcVjr9gnrWmvkEmN_AynAYjvXzgcNNrXoe9i90aKctHtuPz7yn0zaF2S3OjyYP-gohNSNDa-5toZbEGY_0yltjTXaCGcWT0SoKK575G_exNjnl0DudlJbSW44chg_i9o37Pq_rwpnKValhY1rKptKmGSDWOsfhEPsaBi6m-nLd_3GcR6Cl88yh1Blm6Jn_b_A4zhsFVmf-TOrN-93Mq2Irx4JrrSo7GK887COEHE79fox7h8i8fRdjUtEKp1mGhF6y4Ej6Yn-g3PKOaSEm--SJCP8GyZ5OlJBOM3pJ4ewQCpKxsxFGxzpaBJmvxXnxrHOTGwJd_h3cfeSkSlpFGy4YYNuNNuxAJoivPxBNRjkquF95tL3QrpisjrR3E550kQGtOID_wtkBkQa8r5aEfRJWPayEAfgB7tvhSd16O44701GdPhJMyKlllyXHUrQXjWo91yi_UOitPdZcLXgOIeQK3yQG0zEMuPeJUEiRrz-Ie9ALtQ5Z-LNzBv7eFJQEthsjRbuYO_36p9F6_qzShwTscXDEND4v7N_WX9wHSLT24LIYFnEcihGyZg'}
+2018-09-06 11:10:42,034 - INFO - Test Over
+2018-09-06 11:10:42,442 - INFO - 邮件已发送成功!

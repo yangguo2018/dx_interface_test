@@ -10,9 +10,9 @@ import traceback
 
 # 设定输出的用例报告中的用例名格式
 def custom_name_func(testcase_func=None, param_num=None, param=None):
-    log = MyLog.get_log()
-    logger = log.get_logger()
-    logger.info("testcase_func is %s，%s", testcase_func, param_num)
+    # log = MyLog.get_log()
+    # logger = log.get_logger()
+    # logger.info("testcase_func is %s，%s", testcase_func, param_num)
     return "%s_%s_%s" % ("test", str(param.args[0]), str(param.args[3]))
 
 class TestMain(unittest.TestCase):
@@ -21,10 +21,7 @@ class TestMain(unittest.TestCase):
     # 初始化运行
     @classmethod
     def setUpClass(cls):
-        log = MyLog.get_log()
-        logger = log.get_logger()
-
-        logger.info(u"----用例执行-----")
+        print("----Test Start----")
         cls._handle = Handle.Handle()
         setup_data = DataRead.get_xls("dict", u"dx_interauto_qa_case.xls", "setup")
         DataRead.set_global(setup_data)
@@ -39,11 +36,12 @@ class TestMain(unittest.TestCase):
 
         try:
             # print 用来将case_id 输出到报告中
-            logger.info("case_%s" % case_id)
-            logger.info("setup is %s" % setup)
-            logger.info("case_name is %s" % case_name)
-            logger.info("test_assert is %s" % test_assert)
-            logger.info("yaml_data:%s" % DataRead.get_yaml())
+            print("case_%s" % case_id)
+            # print("setup is %s" % setup)
+            print("case_name is %s" % case_name)
+            # print("test_assert is %s" % test_assert)
+            # print("yaml_data:%s" % DataRead.get_yaml())
+
             self.path = self._handle.handle_url(path)
             self.url = "%s%s" % (url, self.path)
             # 判断param中是否有参数化
@@ -57,13 +55,13 @@ class TestMain(unittest.TestCase):
                 self.header = self._handle.handle_header(header)
             else:
                 self.header = header
-            logger.info("url:%s" % self.url)
-            logger.info("--------------------------------------------")
+            print("url:%s" % self.url)
+            print("--------------------------------------------")
 
             res_code, res_content, res_headers = self._handle.handle_request(method, self.url, self.param, self.header)  # 提交接口数据
-            logger.info("res_code:%s & type:%s" % (res_code, type(res_code)))
-            logger.info("res_content:%s" % res_content)
-            logger.info("res.headers:%s" % res_headers)
+            print("res_code:%s & type:%s" % (res_code, type(res_code)))
+            print("res_content:%s" % res_content)
+            print("res.headers:%s" % res_headers)
 
             assert 200 <= res_code < 300
 
@@ -72,6 +70,14 @@ class TestMain(unittest.TestCase):
 
         except Exception as e:
             logger.info('traceback.print_exc():%s,%s' % (traceback.print_exc(), e))
+
+            logger.info("case_%s" % case_id)
+            logger.info("case_name is %s" % case_name)
+            logger.info("url:%s" % self.url)
+            logger.info("--------------------------------------------")
+            logger.info("res_code:%s & type:%s" % (res_code, type(res_code)))
+            logger.info("res_content:%s" % res_content)
+            logger.info("res.headers:%s" % res_headers)
             self.assertTrue(0)
 
     @classmethod
@@ -80,4 +86,4 @@ class TestMain(unittest.TestCase):
         logger = log.get_logger()
         logger.info(DataRead.get_yaml())
         DataRead.del_yaml()
-        logger.info("TestOver")
+        print("----Test Over----")
