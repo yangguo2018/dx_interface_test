@@ -1,0 +1,6 @@
+{DoctorServiceSettingKey: 483bfba7-5cd3-e711-8da1-000c29ac6d36, EndDateTime: '2019-05-15
+    23:00:00', StartDateTime: '2019-05-15 22:30:00', StoreId: A05E1F92-CA15-4F68-90E1-197E636A9899,
+  admin_name: testsuperadmin3, admin_pwd: elephantpwd123, check_name: '15012345601',
+  check_pwd: '123456', doctor_name: '18321802242', doctor_pwd: '123456', endDate: '2019-05-15',
+  num: '112', startDate: '2019-05-15', user_idcard: '510821199205141214', user_name: TestUser112,
+  user_phone: '15400000112', user_pwd: '123456'}

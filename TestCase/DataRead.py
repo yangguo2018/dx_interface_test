@@ -13,7 +13,7 @@ from xml.etree import ElementTree
 import demjson
 
 upPath = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-# print(upPath)
+print(upPath)
 dirPath = os.path.join(upPath, "TestData")
 # print(dirPath)
 # yamlpath = os.path.join(upPath, "TestData", "g_data.yaml")

@@ -7,7 +7,7 @@ import unittest
 from common import HTMLTestRunner, SendEmail
 
 cur_path = os.path.dirname(os.path.realpath(__file__))
-# print(cur_path)
+print(cur_path)
 
 class RunAll:
     @staticmethod
